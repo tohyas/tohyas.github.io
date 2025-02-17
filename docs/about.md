@@ -5,24 +5,10 @@ permalink: /about/
 ---
 
 
-## プロフィール
-- 名前：〇〇
-- 出身：〇〇
-- 趣味：〇〇
+## Profile
+- Name: Tohya Sugano
+- Research Interests: Matching Theory, Computer Science
 
-## 経歴
-1. 〇〇年〜〇〇年：〇〇大学
-2. 〇〇年〜現在：△△にて勤務
-
-## スキル
-- プログラミング言語：〇〇, △△
-- フレームワーク：××, □□
-- その他ツール：Git, Docker など
-
-## 連絡先
-- メール：example@example.com
-
-必要に応じて、以下のページに戻るリンクなどを配置してください。
-
-[トップページへ戻る](./home/)
+## Education
+1. BA in Fuculty of Economics, the Universty of Tokyo, Japan, 2025
 
