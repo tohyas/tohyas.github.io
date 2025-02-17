@@ -1,6 +1,16 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: "ホーム"
 ---
+
+# ようこそ、〇〇のホームページへ
+ここでは自己紹介や活動内容を紹介しています。
+
+## コンテンツ
+- [Aboutページへ](./about)
+- 私が育った場所
+- 世界一周旅行
+- 私が作成したプログラム
+- 連絡先  など
+
+上記のリンクや情報を自由に修正・追加して下さい。
