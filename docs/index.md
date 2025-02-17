@@ -4,13 +4,8 @@ title: Home
 permallink: /home/
 ---
 
-# ようこそ、〇〇のホームページへ
-ここでは自己紹介や活動内容を紹介しています。
+I am **Tohya Sugano** (written as **菅野統哉** in Japanese) a graduate student at the Graduate School of Economics, The University of Tokyo, with an interest in matching theory and computer science. I earned my bachelor's degree from the Faculty of Economics, The University of Tokyo, in 2025. Currently, I work as a research assistant at UTMD (the university of Tokyo Market Design Center), ERATO Kojima Market Design Project, UTEcon (the university of Tokyo Economic Consulting).
 
-## コンテンツ
-- 私が育った場所
-- 世界一周旅行
-- 私が作成したプログラム
-- 連絡先  など
-
-上記のリンクや情報を自由に修正・追加して下さい。
+## Contact
+- sugano-tohya1011[at]g.ecc.u-tokyo.ac.jp
+- tohyas1011[at]gmail.com

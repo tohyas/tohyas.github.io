@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
-
-こちらのページでは、自己紹介や経歴、スキルなどを書きます。
 
 ## プロフィール
 - 名前：〇〇
