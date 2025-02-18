@@ -23,4 +23,17 @@
     font-size: large;
     color: #fff;
 }
-  
+
+.hero {
+	background: url('/assets/header.jpg') no-repeat center center;
+	background-size: cover;    /* 画面いっぱいに広がるように調整 */
+	height: 20%;            /* お好みの高さに設定 */
+	display: flex;            /* コンテンツを中央寄せしたいときに使用 */
+	align-items: center;      /* 縦方向に中央寄せ(要素をflexboxで中央揃えする場合) */
+	justify-content: center;  /* 横方向に中央寄せ */
+}
+
+.hero-content {
+	text-align: center; /* 中心寄せしたい場合の例 */
+	color: #fff;        /* 背景が暗い場合は白文字にする等 */
+}
