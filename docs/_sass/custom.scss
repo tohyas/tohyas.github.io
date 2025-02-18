@@ -25,7 +25,7 @@
 }
 
 .site-header {
-	background-image: url("../assets/header.jpg") no-repeat center center;
+	background: url("../assets/header.jpg") no-repeat center center;
 	background-size: cover;
 	border-top: 5px solid #424242;
 	border-bottom: 1px solid #000;
@@ -34,7 +34,6 @@
   
 	// Positioning context for the mobile navigation icon
 	position: relative;
-	color: #fff;
 }
   
 .site-title {
@@ -99,7 +98,7 @@
 
 	.page-link {
 		color: #fff;
-		// line-height: $base-line-height;
+		line-height: $base-line-height;
 		display: block;
 		padding: 5px 10px;
 		margin-left: 20px;
