@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Profile
 
-<div style="display: flex;  align-items: flex-start;">
+<div style="display: flex;  justify-content: space-between;">
   <!-- 左側：テキスト -->
   <div style="flex-grow: 1;">
     <ul style="list-style: none; padding-left: 0;">
