@@ -22,10 +22,10 @@ title: Tohya Sugano
 email: sugano-tohya1011[at]g.ecc.u-tokyo.ac.jp
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tohyasugano.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tohyasgn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
-domain: tohyasugano.github.io
+domain: tohyasgn.github.io
 
 # Build settings
 theme: minima
