@@ -43,6 +43,9 @@
 	letter-spacing: -1px;
 	margin-bottom: 0;
 	float: left;
+	color: #fff;
+	position: absolute;
+	top: 50%;
 
 	@include media-query($on-palm) {
 		padding-right: 45px;
@@ -50,11 +53,13 @@
 }
 
 .site-nav {
-	position: relative;
+	position: absolute;
+	top: 50%;
 	background-color: $background-color;
 	border: 1px solid $border-color-01;
 	border-radius: 5px;
 	text-align: right;
+	color: #fff;
 
 	.nav-trigger {
 		display: none;
