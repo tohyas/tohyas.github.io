@@ -17,8 +17,8 @@ permalink: /about/
   </div>
 
   <!-- 右側：写真 -->
-  <div>
-    <img src="/assets/picture.jpg" alt="顔写真" style="max-width: 30%; margin-left: auto;">
+  <div style="margin-left: auto;">
+    <img src="/assets/picture.jpg" alt="顔写真" style="max-width: 30%;">
   </div>
 </div>
 
