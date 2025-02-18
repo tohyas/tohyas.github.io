@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Profile
 
-<div style="display: flex; align-items: flex-start; gap: 1rem;">
+<div style="display: flex;  justify-content: space-between;">
   <!-- 左側：テキスト -->
   <div style="flex: 1;">
     <ul style="list-style: none; padding-left: 0;">
@@ -18,7 +18,7 @@ permalink: /about/
 
   <!-- 右側：写真 -->
   <div>
-    <img src="/assets/picture.jpg" alt="顔写真" style="max-width: 30%;">
+    <img src="/assets/picture.jpg" alt="顔写真" style="max-width: 30%; ">
   </div>
 </div>
 
