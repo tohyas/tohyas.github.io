@@ -10,8 +10,9 @@ permalink: /about/
   <!-- 左側：テキスト -->
   <div style="flex: 1;">
     <ul style="list-style: none; padding-left: 0;">
-      <li><strong>Name:</strong> Tohya Sugano</li>
-      <li><strong>Research Interests:</strong> Matching Theory, Computer Science</li>
+      <li>Name: Tohya Sugano</li>
+      <li>Birthday: Oct 11 2002</li>
+      <li>Research Interests: Matching Theory, Computer Science</li>
     </ul>
   </div>
 
