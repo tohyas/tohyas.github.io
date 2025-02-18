@@ -31,6 +31,7 @@ domain: tohyasugano.github.io
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 header_pages:
   - index.md
