@@ -6,9 +6,9 @@ permalink: /about/
 
 ## Profile
 
-<div style="display: flex;  justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <!-- 左側：テキスト -->
-  <div style="flex-grow: 1;">
+  <div style="text-align: left;">
     <ul style="list-style: none; padding-left: 0;">
       <li>Name: Tohya Sugano</li>
       <li>Birthday: Oct 11 2002</li>
@@ -17,7 +17,7 @@ permalink: /about/
   </div>
 
   <!-- 右側：写真 -->
-  <div style="display: flex; margin-left: auto; justify-content: flex-end;">
+  <div style="text-align: right; margin-left: auto;">
     <img src="/assets/picture.jpg" alt="顔写真" style="max-width: 30%;">
   </div>
 </div>
