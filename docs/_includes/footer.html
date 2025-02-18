@@ -16,13 +16,9 @@
               </svg><span>Subscribe</span>
             </a>
           </p>
-        {%- if site.author %}
           <ul class="contact-list">
-            {% if site.author.email -%}
-              <li><a class="u-email">{{ site.author.email }}</a></li>
-            {%- endif %}
+              <li><a class="u-email">{{ site.email }}</a></li>
           </ul>
-        {%- endif %}
         </div>
         <div class="footer-col">
           <p>{{ site.description | escape }}</p>
