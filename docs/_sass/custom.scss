@@ -26,7 +26,10 @@
 
 .site-header {
 	background: url('/../assets/header.jpg') no-repeat center center;
-	background-size: cover;    /* 画面いっぱいに広がるように調整 */
-	height: 100%;       
-	color: #fff;     
+	background-size: cover;    /* 画面いっぱいに広がるように調整 */    
+	min-height: 100px;
+}
+
+.site-header a {
+	color: #fff;
 }
