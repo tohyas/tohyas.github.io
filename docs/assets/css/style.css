@@ -1,0 +1,16 @@
+.site-footer {
+    background-color: #000;  /* 背景を黒 */
+    color: #fff;  /* 文字色を白 */
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  .site-footer a {
+    color: #fff; /* リンクの色も白 */
+    text-decoration: none;
+  }
+  
+  .site-footer a:hover {
+    text-decoration: underline;
+  }
+  
