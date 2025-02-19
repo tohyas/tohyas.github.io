@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Download [[pdf](/assets/cv.pdf)]
+Download [[pdf](/assets/cv.pdf){:target="_blank" rel="noopener noreferrer"}]
 
 ## Education
 - M.A. in Economics, University of Tokyo, April 2025–present  
