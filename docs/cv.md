@@ -20,8 +20,8 @@ Matching Theory, Market Design, Game Theory, Computer Science
 ## Teaching Experience (including scheduled one)
 - Microeconomics (Undergraduate), Fall 2025  
 
-## Awards and Honors
-- Ouchi Hyoe Award for the Best Undergraduate Thesis, University of Tokyo, March 2025
+<!-- ## Awards and Honors
+- Ouchi Hyoe Award for the Best Undergraduate Thesis, University of Tokyo, March 2025 -->
 
 ## Programming Skills
 - Python  
