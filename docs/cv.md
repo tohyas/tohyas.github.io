@@ -17,11 +17,11 @@ Matching Theory, Market Design, Game Theory, Computer Science
 - University of Tokyo Market Design Center (UTMD) (2024–present)  
 - University of Tokyo Economic Consulting (UTEcon) (2024–present)  
 
-## Teaching Experience (including scheduled ones)
+## Teaching Experience (including scheduled one)
 - Microeconomics (Undergraduate), Fall 2025  
 
 ## Awards and Honors
-- Ouchi Hyoe Award for the Best Undergraduate Thesis, University of Tokyo, March 2024  
+- Ouchi Hyoe Award for the Best Undergraduate Thesis, University of Tokyo, March 2025
 
 ## Programming Skills
 - Python  
