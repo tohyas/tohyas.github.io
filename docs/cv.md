@@ -7,18 +7,22 @@ permalink: /cv/
 Download [[pdf](/assets/cv.pdf){:target="_blank" rel="noopener noreferrer"}]
 
 ## Education
-- M.A. in Economics, University of Tokyo, April 2025–present  
+- PhD in Economics, University of Tokyo, April 2026-present
+- M.A. in Economics, University of Tokyo, March 2026
 - B.A. in Economics, University of Tokyo, March 2025  
 
 ## Research Interests
-Matching Theory, Market Design, Game Theory, Computer Science  
+Matching Theory, Market Design, Game Theory, Social Learning
 
 ## Research Assistant
 - University of Tokyo Market Design Center (UTMD) (2024–present)  
 - University of Tokyo Economic Consulting (UTEcon) (2024–present)  
 
 ## Teaching Experience (including scheduled one)
-- Microeconomics (Undergraduate), Fall 2025  
+- Microeconomics I (Undergraduate), Fall 2025  
+- Microeconomics I (Graduate), Spring 2026 
+- Game Theory I, Spring 2026  
+- Microeconomics I (Undergraduate), Fall 2026  
 
 ## Awards and Honors
 - Ouchi Hyoe Award for the Best Undergraduate Thesis, University of Tokyo, March 2025
@@ -26,7 +30,6 @@ Matching Theory, Market Design, Game Theory, Computer Science
 ## Programming Skills
 - Python  
 - R  
-- LaTeX  
 
 ## Language
 - English  

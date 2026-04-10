@@ -12,7 +12,7 @@ permalink: /about/
     <ul>
         <li>Name: Tohya Sugano</li>
         <li>Birthday: Oct 11 2002</li>
-        <li>Research Interests: Matching Theory, Computer Science</li>
+        <li>Research Interests: Matching Theory, Mechanism Design, Social Learning</li>
     </ul>
   </div>
 
@@ -24,3 +24,4 @@ permalink: /about/
 
 ## Education
 1. BA in Faculty of Economics, the University of Tokyo, Japan, 2025
+2. MA in Faculty of Economics, the University of Tokyo, Japan, 2026
