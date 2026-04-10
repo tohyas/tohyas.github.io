@@ -18,6 +18,10 @@ Matching Theory, Market Design, Game Theory, Social Learning
 - University of Tokyo Market Design Center (UTMD) (2024–present)  
 - University of Tokyo Economic Consulting (UTEcon) (2024–present)  
 
+## Presentation Experience
+- "Minimizing Instability in Strategy-Proof Matching Mechanism Using A Linear Programming Approach," 2025 Asian School of Economic Theory
+- "A Note on Assortative Measures," Game Theory Workshop 2026
+
 ## Teaching Experience (including scheduled one)
 - Microeconomics I (Undergraduate), Fall 2025  
 - Microeconomics I (Graduate), Spring 2026 
