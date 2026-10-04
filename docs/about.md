@@ -12,7 +12,8 @@ permalink: /about/
     <ul>
         <li>Name: Tohya Sugano</li>
         <li>Birthday: Oct 11 2002</li>
-        <li>Research Interests: Matching Theory, Mechanism Design, Social Learning</li>
+        <li>Research Interests: Matching Theory, Information Design, Social Learning</li>
+        <li>JSPS Research Fellow (DC1), April 2026-present</li>
     </ul>
   </div>
 
@@ -23,5 +24,6 @@ permalink: /about/
 </div>
 
 ## Education
-1. BA in Faculty of Economics, the University of Tokyo, Japan, 2025
-2. MA in Faculty of Economics, the University of Tokyo, Japan, 2026
+1. PhD in Economics, Graduate School of Economics, The University of Tokyo, Japan, April 2026-present
+2. M.A. in Economics, Graduate School of Economics, The University of Tokyo, Japan, March 2026
+3. B.A. in Economics, Faculty of Economics, The University of Tokyo, Japan, March 2025
