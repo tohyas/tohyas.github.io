@@ -21,7 +21,7 @@ Matching Theory, Information Design, Social Learning
 
 ## Research Assistant
 - University of Tokyo Market Design Center (UTMD) (2024–present)  
-- ERATO Kojima Market Design Project (current)
+- ERATO Kojima Market Design Project (2025–present)
 - University of Tokyo Economic Consulting (UTEcon) (2024–present)  
 
 ## Working Papers
